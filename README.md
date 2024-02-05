@@ -1,2 +1,2 @@
-# congressional_bb
+#Congressional Baseball Stats
 congressional baseball stats
